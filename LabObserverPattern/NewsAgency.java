@@ -30,7 +30,7 @@ public class NewsAgency implements NewsBroadcaster {
         System.out.println(border);
         notifySubscribers(detailedNews);
         System.out.println(border);
-        System.out.println("Stay informed with the latest updates. Thank you for trusting News All Day.");
+        System.out.println("Stay informed with the latest updates. Thank you for trusting Around the Clock News.");
         System.out.println(border + "\n");
     }
 }
